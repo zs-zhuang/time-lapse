@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# In order to run this, the following requirements must be met
+# 1. change the parameters at the beginning of all three scripts: binary.py, fast_track.py, q_vs_time.py
+# 2. make sure refined_999.png is present (maually processed reference image, see readme on how to get it)
+
+./prep_bg.py
+./binary_n_n-1.py
+./fast_track.py
+./q_vs_time.py
