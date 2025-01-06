@@ -1,4 +1,4 @@
-time-lapse
+time-lapse-analyzer
 ===========
 <img src="https://github.com/zs-zhuang/time-lapse/blob/main/images/setup.png">
 
