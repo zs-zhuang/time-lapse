@@ -10,4 +10,4 @@ This repository contains:
 (for detailed instruction, please refer to the individual README files inside each sub-directory)
 
 # WARNING
-This repository is initially designed for in-house use and is no longer mainted 
+This repository is initially designed for in-house use and is no longer maintained 
