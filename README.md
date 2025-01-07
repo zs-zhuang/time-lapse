@@ -1,6 +1,7 @@
 time-lapse-analyzer
 ===========
 <img src="https://github.com/zs-zhuang/time-lapse/blob/main/images/setup.png">
+<img src="https://github.com/zs-zhuang/time-lapse-analyzer/blob/main/images/growth_rate_plot.png">
 
 # Summary
 
